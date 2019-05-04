@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.1b0a56bf.chunk.css",
+    "main.js": "/resume/static/js/main.2bddd051.chunk.js",
+    "main.js.map": "/resume/static/js/main.2bddd051.chunk.js.map",
+    "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
+    "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
+    "static/css/2.1f156bdb.chunk.css": "/resume/static/css/2.1f156bdb.chunk.css",
+    "static/js/2.ba39a63c.chunk.js": "/resume/static/js/2.ba39a63c.chunk.js",
+    "static/js/2.ba39a63c.chunk.js.map": "/resume/static/js/2.ba39a63c.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.5273986fede965e87cbdc087166b4218.js": "/resume/precache-manifest.5273986fede965e87cbdc087166b4218.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.1f156bdb.chunk.css.map": "/resume/static/css/2.1f156bdb.chunk.css.map",
+    "static/css/main.1b0a56bf.chunk.css.map": "/resume/static/css/main.1b0a56bf.chunk.css.map",
+    "static/media/face-recognition.jpg": "/resume/static/media/face-recognition.3815a9ca.jpg",
+    "static/media/me.jpg": "/resume/static/media/me.7e9b4597.jpg",
+    "static/media/visual-studio.png": "/resume/static/media/visual-studio.ee57e66e.png"
+  }
+}
